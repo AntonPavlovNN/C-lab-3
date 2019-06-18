@@ -1,4 +1,4 @@
-﻿#include "pch.h"
+//#include "pch.h"
 #include <stdio.h>
 #include <string.h>
 #define N 256
